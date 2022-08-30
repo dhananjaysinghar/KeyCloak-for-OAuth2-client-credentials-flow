@@ -14,13 +14,11 @@
 
 ![alt text](client_creation.jpg)
 
-
-
 ![alt text](create_client_1.jpg)
 
-![alt text](client_credentials.jpg)
-
 ![alt text](create_JWKS.jpg)
+
+![alt text](client_credentials.jpg)
 
 ![alt text](refresh_token_on.jpg)
 
