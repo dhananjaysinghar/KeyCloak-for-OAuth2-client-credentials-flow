@@ -8,8 +8,6 @@
 
 ![alt text](create_realm.jpg)
 
-![alt text](create_realm.jpg)
-
 ![alt text](create_realm_2.jpg)
 
 ![alt text](realm_homepage.jpg)
