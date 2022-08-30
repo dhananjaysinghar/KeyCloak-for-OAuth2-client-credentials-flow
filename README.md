@@ -76,24 +76,18 @@ http://localhost:8180/realms/realspeed/.well-known/openid-configuration
 ![alt text](create_client_4.jpg)
 
 ### Step-15
-![alt text](create_client_5.jpg)
-
-### Step-16
 ![alt text](add_mapper_to_scope.jpg)
 
-### Step-17
+### Step-16
 ![alt text](add_mapper_to_scope_1.jpg)
 
-### Step-18
+### Step-17
 ![alt text](add_mapper_to_scope_2.jpg)
 
+### Step-18
+![alt text](add_mapper_to_scope_3.jpg)
+
 ### Step-19
-![alt text](add_mapper_to_scope_3.jpg)
-
-### Step-20
-![alt text](add_mapper_to_scope_3.jpg)
-
-### Step-21
 ![alt text](Add_scope_to_client.jpg)
 
 ### Results:
